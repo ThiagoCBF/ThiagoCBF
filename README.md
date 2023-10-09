@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Thiago Ferreira
 
 <div>
-  <p align="right"><b>------------------TRAINING-------------<b></p>
+  <p align="right"><b>------------------TRAINING---------------<b></p>
 <img align="right" width="250px" height="250" src="zoro-one-piece.gif">
 </div>
 
