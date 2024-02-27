@@ -7,7 +7,7 @@
 
 <div>
 <p>Cursando Sistema da Informação - Unip/Alphaville 3/8 💡</p>
-<p>Aprendendo Python e JavaScript 📖</p>
+<p>Aprendendo Python, JavaScript e PHP📖</p>
 <p>Aspirando ser Desenvolvedor Junior / Estágio 😁 </p>
 </div>
 
