@@ -6,9 +6,9 @@
 </div>
 
 <div>
-<p>Cursando Sistema da Informação - Unip/Alphaville 4/8 💡</p>
-<p>Aprendendo Python e JavaScript</p>
-<p>Aspirando ser Desenvolvedor Junior / Estágio 😁 </p>
+<p>Cursando Sistema da Informação - Unip/Alphaville 5/8 💡</p>
+<p>Aprendendo Python e Banco de Dados</p>
+<p>Aspirando ser Engenheiro de Dados / Estágio 😁 </p>
 </div>
 
 <div>
