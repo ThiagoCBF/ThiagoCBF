@@ -8,7 +8,7 @@
 <div>
 <p>Cursando Sistema da Informação - Unip 5/8 💡</p>
 <p>Aprendendo Python e Banco de Dados</p>
-<p>Aspirando ser Engenheiro de Dados / Estágio 😁 </p>
+<p>Aspirando ser Engenheiro de Dados 😁 </p>
 </div>
 
 <div>
