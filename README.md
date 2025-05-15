@@ -6,7 +6,7 @@
 </div>
 
 <div>
-<p>Cursando Sistema da Informação - Unip 5/8 💡</p>
+<p>Cursando Sistema da Informação - Unip 💡</p>
 <p>Aprendendo Python e Banco de Dados</p>
 <p>Aspirando ser Engenheiro de Dados 😁 </p>
 </div>
