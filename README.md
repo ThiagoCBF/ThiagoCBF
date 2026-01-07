@@ -7,7 +7,7 @@
 
 <div>
 <p>Cursando Sistema da Informação - Unip 💡</p>
-<p>Aprendendo Python e Banco de Dados</p>
+<p>Aprendendo SQL e Python</p>
 <p>Aspirando ser Engenheiro de Dados 😁 </p>
 </div>
 
