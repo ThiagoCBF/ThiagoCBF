@@ -1,7 +1,7 @@
 <h1 align="center">Thiago Ferreira</h1>
 
 <p align="center">
-  Estudante de Sistemas de Informação • Data Engineer em formação • Analista de Dados
+    Estudante de Sistemas de Informação • Data Engineer em formação
 </p>
 
 <p align="center">
