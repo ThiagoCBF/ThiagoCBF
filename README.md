@@ -1,20 +1,114 @@
-### Olá, Eu sou o Thiago Ferreira
+<h1 align="center">Thiago Ferreira</h1>
 
-<div>
+<p align="center">
+  Estudante de Sistemas de Informação • Data Engineer em formação • Analista de Dados
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thiago-cbferreira/">LinkedIn</a> •
+  <a href="https://github.com/ThiagoCBF">GitHub</a> •
+  <a href="mailto:thiagocbf@outlook.com">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   
-<img align="right" width="250px" height="250" src="zoro-one-piece.gif">
-</div>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat-square" />
+</p>
 
-<div>
-<p>Cursando Sistema da Informação - Unip 💡</p>
-<p>Aprendendo SQL e Python</p>
-<p>Aspirando ser Engenheiro de Dados 😁 </p>
-</div>
+##  Sobre
+Estudante de Sistemas de Informação com foco em Engenharia de Dados, buscando construir uma base sólida em pipelines de dados, modelagem e análise.
 
-<div>
-  <a href="mailto:thiagocbf@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">    </a>
-  <a href="https://www.instagram.com/thiagocouto04/">          </a>
- 
-</div>
+Tenho experiência prática em projetos acadêmicos e pessoais, trabalhando com ingestão, transformação e organização de dados para consumo analítico. Venho desenvolvendo pipelines ETL/ELT, utilizando conceitos de arquitetura em camadas (Bronze, Silver e Gold), além de explorar ferramentas de cloud e orquestração.
 
+Meu foco é evoluir constantemente em engenharia de dados, com atenção à organização, clareza das soluções e construção de projetos com estrutura próxima ao ambiente real.
 
+---
+
+##  Áreas Principais
+
+###  Engenharia de Dados
+- Python (Pandas, PySpark)  
+- SQL (joins, agregações, filtros)  
+- ETL/ELT e pipelines batch  
+- Arquitetura Medalhão (Bronze, Silver, Gold)  
+- Modelagem de dados (fundamentos)
+
+---
+
+###  Cloud & Ferramentas
+- AWS (S3, noções de Lambda/EC2)  
+- GCP (Cloud Storage, BigQuery – noções)  
+- Apache Airflow (DAGs, agendamento e monitoramento)  
+- Databricks (básico)  
+- Git e GitHub  
+
+---
+
+###  Análise de Dados
+- Pandas para análise exploratória  
+- Criação de datasets organizados para análise  
+- Construção de indicadores (KPIs)  
+- Noções de visualização (Streamlit / ferramentas básicas)
+
+---
+
+###  Boas Práticas
+- Versionamento com Git  
+- Estruturação de projetos de dados  
+- Organização e documentação de código  
+- Aprendizado contínuo e foco em evolução técnica  
+
+---
+
+##  Áreas de Foco
+- Pipelines de dados em batch  
+- Arquitetura de dados em camadas (Lakehouse)  
+- Projetos end-to-end para portfólio  
+- Modelagem de dados para análise  
+- Evolução em SQL e otimização de queries  
+
+---
+
+##  Projetos em Destaque
+
+### [Ingestão de Dados em Batch com Airflow e Delta Lake](https://github.com/ThiagoCBF/projeto_1_ingestao_batch)
+Pipeline de dados batch com ingestão, transformação e organização em camadas (Bronze, Silver e Gold), utilizando Airflow para orquestração.
+
+**Stack:** `Python` `Airflow` `SQL` `Delta Lake` `Spark` `Pandas` 
+
+---
+
+### [Relatório Financeiro Interativo com Airflow, Spark e Streamlit](https://github.com/ThiagoCBF/projeto_2_relatorio_financeiro_interativo)
+Projeto de dados com processamento em Spark e visualização via Streamlit, focado na geração de insights financeiros.
+
+**Stack:** `Python` `PySpark` `SQL` `Streamlit` `Delta Lake`
+
+---
+
+##  Abordagem de Engenharia
+- Foco em aprender construindo projetos reais  
+- Prioridade em clareza e organização do código  
+- Evolução constante em ferramentas e conceitos  
+- Construção de soluções simples e funcionais  
+
+---
+
+##  Atualmente Estudando
+- SQL avançado (CTE, subqueries, otimização)  
+- Engenharia de Dados (pipelines e arquitetura)  
+- Cloud (AWS, GCP e Azure)  
+- Ferramentas como Airflow, Spark e Databricks  
+
+---
+
+##  Contato
+- LinkedIn: (https://www.linkedin.com/in/thiago-cbferreira/)  
+- Email: (thiagocbf@outlook.com)  
+- GitHub: (https://github.com/ThiagoCBF)  
