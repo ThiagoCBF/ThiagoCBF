@@ -78,6 +78,13 @@ Meu foco é evoluir constantemente em engenharia de dados, com atenção à orga
 
 ##  Projetos em Destaque
 
+### [Streaming de Dados Financeiros com Spark, Docker e Google Cloud Platform](https://github.com/ThiagoCBF/projeto_streaming_dados_financeiros)
+Arquitetura de pipeline de dados escalável para processamento em tempo real de ativos financeiros, utilizando Spark Streaming e Docker para orquestração de containers, com infraestrutura robusta hospedada na Google Cloud Platform (GCP).
+
+**Stack:** `Python` `Docker` `Kafka` `GCP` `Spark` `API` 
+
+---
+
 ### [Ingestão de Dados em Batch com Airflow e Delta Lake](https://github.com/ThiagoCBF/projeto_1_ingestao_batch)
 Pipeline de dados batch com ingestão, transformação e organização em camadas (Bronze, Silver e Gold), utilizando Airflow para orquestração.
 
