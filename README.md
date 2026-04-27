@@ -76,12 +76,19 @@ Meu foco é evoluir constantemente como profissional de dados, com atenção à 
 
 ---
 
-##  Projetos em Destaque
+##  Repositórios em Destaque
 
 ### [Streaming de Dados Financeiros com Spark, Docker e Google Cloud Platform](https://github.com/ThiagoCBF/projeto_streaming_dados_financeiros)
 Arquitetura de pipeline de dados escalável para processamento em tempo real de ativos financeiros, utilizando Spark Streaming e Docker para orquestração de containers, com infraestrutura robusta hospedada na Google Cloud Platform (GCP).
 
 **Stack:** `Python` `Docker` `Kafka` `GCP` `Spark` `API` 
+
+---
+
+### [Microsoft Power BI para Business Intelligence e Data Science](https://github.com/seu-usuario/seu-repositorio)
+Projeto completo desenvolvido ao longo de um curso de 72 horas, com foco na aplicação prática de Business Intelligence. Inclui mais de 15 dashboards interativos, abordando análise de dados em diferentes áreas de negócio como marketing, vendas, finanças e logística, desde o tratamento dos dados até a construção de relatórios e geração de insights para tomada de decisão.
+
+**Stack:** `Power BI` `DAX` `Power Query (M)` `Excel` `SQL`
 
 ---
 
