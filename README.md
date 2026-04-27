@@ -23,11 +23,13 @@
 </p>
 
 ##  Sobre
-Estudante de Sistemas de Informação com foco em Engenharia de Dados, buscando construir uma base sólida em pipelines de dados, modelagem e análise.
+Profissional em formação na área de Dados, com base em análise, modelagem e geração de insights para tomada de decisão.
 
-Tenho experiência prática em projetos acadêmicos e pessoais, trabalhando com ingestão, transformação e organização de dados para consumo analítico. Venho desenvolvendo pipelines ETL/ELT, utilizando conceitos de arquitetura em camadas (Bronze, Silver e Gold), além de explorar ferramentas de cloud e orquestração.
+Tenho experiência prática em projetos acadêmicos e pessoais, trabalhando com coleta, tratamento e análise de dados, transformando informações brutas em insights acionáveis. Utilizo ferramentas como SQL e Python para exploração de dados, além de aplicar boas práticas de organização e estruturação para garantir clareza nas análises.
 
-Meu foco é evoluir constantemente em engenharia de dados, com atenção à organização, clareza das soluções e construção de projetos com estrutura próxima ao ambiente real.
+Também possuo conhecimento em processos de dados como ETL/ELT e organização em camadas (Bronze, Silver e Gold), o que me permite entender todo o ciclo do dado — desde a origem até a análise final.
+
+Meu foco é evoluir constantemente como profissional de dados, com atenção à qualidade das análises, comunicação dos resultados e construção de soluções que gerem valor real para o negócio.
 
 ---
 
