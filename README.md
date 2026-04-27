@@ -35,46 +35,48 @@ Meu foco é evoluir constantemente como profissional de dados, com atenção à 
 
 ##  Áreas Principais
 
-###  Engenharia de Dados
-- Python (Pandas, PySpark)  
-- SQL (joins, agregações, filtros)  
-- ETL/ELT e pipelines batch  
-- Arquitetura Medalhão (Bronze, Silver, Gold)  
+###  Análise de Dados
+- Análise exploratória de dados (EDA) com Python (Pandas)
+- Manipulação e tratamento de dados para geração de insights
+- Construção de indicadores e métricas de negócio (KPIs)
+- Análise com SQL (joins, agregações, filtros)
+- Organização de datasets para consumo analítico
+- Noções de visualização de dados (Streamlit / ferramentas básicas)
+
+---
+
+###  Ferramentas & Ferramentas
+- SQL
+- Python
+- Power BI
+- Excel
+- Cloud
+- Databricks 
+- Git e GitHub
+
+---
+
+###  Fundamentos de Dados
+- Processos de ETL/ELT
+- Estruturação de pipelines de dados (batch)
+- Arquitetura em camadas (Bronze, Silver e Gold)
 - Modelagem de dados (fundamentos)
 
 ---
 
-###  Cloud & Ferramentas
-- AWS (S3, noções de Lambda/EC2)  
-- GCP (Cloud Storage, BigQuery – noções)  
-- Apache Airflow (DAGs, agendamento e monitoramento)  
-- Databricks (básico)  
-- Git e GitHub  
-
----
-
-###  Análise de Dados
-- Pandas para análise exploratória  
-- Criação de datasets organizados para análise  
-- Construção de indicadores (KPIs)  
-- Noções de visualização (Streamlit / ferramentas básicas)
-
----
-
 ###  Boas Práticas
-- Versionamento com Git  
-- Estruturação de projetos de dados  
-- Organização e documentação de código  
-- Aprendizado contínuo e foco em evolução técnica  
+- Estruturação e organização de projetos de dados
+- Versionamento com Git
+- Documentação clara e reprodutibilidade de análises
+- Foco em clareza, consistência e qualidade dos dados  
 
 ---
 
 ##  Áreas de Foco
-- Pipelines de dados em batch  
-- Arquitetura de dados em camadas (Lakehouse)  
-- Projetos end-to-end para portfólio  
-- Modelagem de dados para análise  
-- Evolução em SQL e otimização de queries  
+- Análise de dados voltada para tomada de decisão
+- Construção de projetos end-to-end com foco analítico
+- Evolução em SQL para análise e performance
+- Desenvolvimento de dashboards e visualização de dados
 
 ---
 
