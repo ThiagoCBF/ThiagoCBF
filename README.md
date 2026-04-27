@@ -103,19 +103,20 @@ Projeto de dados com processamento em Spark e visualização via Streamlit, foca
 
 ---
 
-##  Abordagem de Engenharia
-- Foco em aprender construindo projetos reais  
-- Prioridade em clareza e organização do código  
-- Evolução constante em ferramentas e conceitos  
-- Construção de soluções simples e funcionais  
+##  Abordagem de Dados
+- Foco em resolver problemas através da análise de dados
+- Aprendizado contínuo com projetos práticos
+- Clareza e organização na análise e no código
+- Construção de soluções simples, objetivas e orientadas a resultado  
 
 ---
 
 ##  Atualmente Estudando
-- SQL avançado (CTE, subqueries, otimização)  
-- Engenharia de Dados (pipelines e arquitetura)  
-- Cloud (AWS, GCP e Azure)  
-- Ferramentas como Airflow, Spark e Databricks  
+- SQL avançado (CTE, subqueries, otimização de consultas)
+- Análise de dados com Python (Pandas)
+- Modelagem de dados para análise
+- Visualização de dados e construção de dashboards
+- Fundamentos de cloud aplicados a dados (BigQuery, AWS)  
 
 ---
 
