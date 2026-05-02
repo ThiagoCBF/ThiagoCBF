@@ -81,6 +81,13 @@ Meu foco é evoluir constantemente como profissional de dados, com atenção à 
 
 ##  Repositórios em Destaque
 
+### [Sistema de Business Intelligence para Análise de Dados Comerciais](https://github.com/ThiagoCBF/bi-forca-tarefa)
+Solução de Business Intelligence end-to-end para gestão comercial, integrando Streamlit, Python, SQL e Power BI para captura, tratamento, modelagem e visualização de dados. Estrutura um fluxo completo de dados que reduz erros operacionais e viabiliza a tomada de decisão baseada em indicadores e KPIs.
+
+**Stack:** `Python` `SQL` `Power BI` `Streamlit` `Pandas` `KPIs` 
+
+---
+
 ### [Streaming de Dados Financeiros com Spark, Docker e Google Cloud Platform](https://github.com/ThiagoCBF/projeto_streaming_dados_financeiros)
 Arquitetura de pipeline de dados escalável para processamento em tempo real de ativos financeiros, utilizando Spark Streaming e Docker para orquestração de containers, com infraestrutura robusta hospedada na Google Cloud Platform (GCP).
 
@@ -99,13 +106,6 @@ Projeto completo desenvolvido ao longo de um curso de 72 horas, com foco na apli
 Pipeline de dados batch com ingestão, transformação e organização em camadas (Bronze, Silver e Gold), utilizando Airflow para orquestração.
 
 **Stack:** `Python` `Airflow` `SQL` `Delta Lake` `Spark` `Pandas` 
-
----
-
-### [Relatório Financeiro Interativo com Airflow, Spark e Streamlit](https://github.com/ThiagoCBF/projeto_2_relatorio_financeiro_interativo)
-Projeto de dados com processamento em Spark e visualização via Streamlit, focado na geração de insights financeiros.
-
-**Stack:** `Python` `PySpark` `SQL` `Streamlit` `Delta Lake`
 
 ---
 
