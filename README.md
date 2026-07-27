@@ -44,7 +44,7 @@ Meu foco é evoluir constantemente como profissional de dados, com atenção à 
 
 ---
 
-###  Ferramentas & Ferramentas
+###  Ferramentas
 - SQL
 - Python
 - Power BI
