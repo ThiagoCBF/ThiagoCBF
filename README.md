@@ -1,7 +1,7 @@
 <h1 align="center">Thiago Ferreira</h1>
 
 <p align="center">
-    Analista de Dados • Data Engineer 
+    Engenheiro de Dados • Analista de Dados 
 </p>
 
 <p align="center">
